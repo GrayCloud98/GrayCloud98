@@ -68,3 +68,41 @@
   <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/CocoaPods-E41F26?style=flat-square&logo=cocoapods&logoColor=white"/>
 </p>
+
+<h2>📂 Featured Projects</h2>
+
+<h3>🚗 QuickRide</h3>
+<p>A real-time ride-sharing platform with live map routing, ride state management, and role-based profiles.</p>
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-4285F4?style=flat-square&logo=websocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/H2-004d99?style=flat-square&logo=datagrip&logoColor=white"/>
+</p>
+
+<h3>✋ Gesture Recognition Tool</h3>
+<p>Detects and classifies hand gestures using motion sensor data — powering an interactive spell-casting game.</p>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data Collection-000000?style=flat-square&logo=simpleanalytics&logoColor=white"/>
+</p>
+
+<h3>🧠 AI Writing Assistant</h3>
+<p>A prompt-based writing tool that enhances grammar, clarity, and tone using large language models.</p>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
+</p>
+
+<h3>🧊 3D Model Generator</h3>
+<p>Generates 3D models from text prompts, sketches, or images and previews them with interactive GLB rendering.</p>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative AI-FFAE00?style=flat-square&logo=adobecreativecloud&logoColor=white"/>
+</p>
