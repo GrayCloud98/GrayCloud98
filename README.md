@@ -1,6 +1,8 @@
-<h2>Hey 👋, I'm Ziad</h2>
-<p>I'm a software engineering student and junior developer based in Germany, Essen. I work on web apps, intelligent UIs, and ML-powered tools.</p>
+<img src="https://raw.githubusercontent.com/GrayCloud98/GrayCloud98/main/banner.png" alt="Hello World, I'm Ziad" />
 
+<p>
+  I'm a software engineering student and junior developer based in Essen, Germany 🇩🇪. Curious by nature and driven by impact, I enjoy turning ideas into polished digital experiences. Currently exploring the intersection of user experience and smart systems.
+</p>
 <p>
   <a href="mailto:ziad.morsy1998@hotmail.com">
     <img src="https://img.shields.io/badge/Email-ziad.morsy1998%40hotmail.com-4B4B4B?style=flat-square&logo=maildotru&logoColor=white" />
