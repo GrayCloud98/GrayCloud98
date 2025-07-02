@@ -13,7 +13,7 @@
 </p>
 
 <h2>⚡ A Few Quick Facts</h2>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450" />
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjgxNnUxNXRsbjZjeWMxa2t1dHVtaTdqN3J4enBhN2RscWtyODZsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QZkpIdieotn3i/giphy.gif" width="450" />
 <ul>
   <li>🎓 Currently completing a B.Sc. in Software Engineering at Universität Duisburg-Essen</li>
   <li>🧠 Experience in fullstack development, machine learning, and intelligent user interfaces</li>
