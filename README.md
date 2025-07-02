@@ -74,8 +74,8 @@
 <h3>🚗 QuickRide</h3>
 <p>A real-time ride-sharing platform with live map routing, ride state management, and role-based profiles.</p>
 <p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebSockets-4285F4?style=flat-square&logo=websocket&logoColor=white"/>
   <img src="https://img.shields.io/badge/H2-004d99?style=flat-square&logo=datagrip&logoColor=white"/>
 </p>
