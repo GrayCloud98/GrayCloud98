@@ -71,7 +71,7 @@
 
 <h2>📂 Featured Projects</h2>
 
-<h3>🚗 QuickRide</h3>
+<h3><a href="https://github.com/GrayCloud98/quick-ride" target="_blank">🚗 QuickRide</a></h3>
 <p>A real-time ride-sharing platform with live map routing, ride state management, and role-based profiles.</p>
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
